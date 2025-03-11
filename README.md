@@ -9,15 +9,12 @@ This repository contains Figma design files and exported assets for the **[Portf
 
 ## 📁 Files Included
 - `Dina Ikirezi_Portfolio.fig` - The original Figma file.
-- `assets/` - Exported images (PNG, SVG, PDF).
+- `assets/` - Dina Ikirezi Portfolio.pdf .
 - `README.md` - This documentation.
 
 ## 🛠️ How to Open
 - Download the `.fig` file.
 - Open it in [Figma](https://figma.com) (Web or Desktop App).
-
-## ✨ Preview
-_Add screenshots of your design here._
 
 ## 📜 License
 You can specify a license if needed (e.g., MIT, Creative Commons).
